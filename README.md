@@ -2,7 +2,6 @@
 
 **EventHive** is a full-stack college event management platform. It supports three user roles — Student, Club Admin, and Super Admin, and handles everything from event creation and registration to QR-based attendance, PDF certificates, and real-time notifications.
 
-🌐 **Live Demo:** [event-hive.vercel.app](https://event-hive.vercel.app)
 
 ---
 
